@@ -16,7 +16,7 @@ ul {
   height: 200px;
 }
 ul::after {
-  content: '爱心跳跳糖❤';
+  content: '❤';
   position: absolute;
   top: 0;
   left: 50%;
